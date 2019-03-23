@@ -1,0 +1,39 @@
+body{
+  background: white;
+  text-align: center;
+}
+.p
+{
+  width:95%;
+  display: flex;
+  padding: 1%;
+  margin: 2%;
+}
+.p section
+{
+  width: 95%;
+  margin:1%;
+  padding: 2%;
+  border: 2px solid black;
+}
+section{
+  background: skyblue;
+  text-align: center;
+  margin:1%;
+  padding:1%;
+}
+input,select{
+  width:95%;
+  margin: 1%;
+  padding:1%;
+  display: block;
+  border: 1px solid black;
+}
+button{
+  width:10%;
+  background: white;
+  margin:1%;
+  padding:1%;
+  font-size:30px;
+  font-weight:bold;
+}

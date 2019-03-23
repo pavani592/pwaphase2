@@ -1,0 +1,33 @@
+header{
+  background: yellow;
+  text-align: center;
+  margin:1%;
+  padding:2%;
+  font-style: italic;
+  font-size: 25px;
+  border: 2px solid black;
+  box-shadow: 2px 5px grey;
+}
+a img{
+  display: block;
+  width:10%;
+  heigtht:10%;
+  margin: 0 3%  0 auto;
+}
+.child img{
+  width:250px;
+  height:250px;
+}
+.parent
+{
+  display :flex;
+}
+.child{
+  border: 2px solid skyblue;
+  box-shadow:2px 5px black;
+  text-align: center;
+  width: 15%;
+  background: skyblue;
+  margin: 1%;
+  padding:1%;
+}
